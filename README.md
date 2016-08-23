@@ -1,3 +1,5 @@
+# Edited by Greenitthe 8-22-16
+
 # Web Technologies Syllabus
 
 * **Course:** CPTR 335 - Web Technologies
